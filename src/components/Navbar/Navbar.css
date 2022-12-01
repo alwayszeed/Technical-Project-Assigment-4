@@ -1,0 +1,59 @@
+body {
+    background-color: #dfd2c2 !important;
+    background-image: url(../../assets/background.jpg);
+    /* height: 100vh; */
+    max-width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.deskripsi{
+   font-size: large;
+}
+
+.slide{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.navbar{
+  background-color: rgb(0, 0, 0);
+  max-width: 100%;
+  /* margin-top: 1rem; */
+  margin-left: 5%;
+  border-radius: 100px;
+  padding: 1rem;
+  position: absolute;
+}
+
+.current-page{
+  color :rgb(255, 255, 255) !important;
+  text-decoration: none;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: capitalize;
+  padding: 10px;
+  border: 2px solid transparent;
+  border-radius: 15px;
+
+}
+
+.current-page:hover{
+  color : #bb1de2ce !important;
+  transition: 0.4s;
+}
+
+.container{
+  border: none;
+  justify-content: space-around;
+
+}
+
+.allColor{
+  color: rgb(0, 0, 0);
+}
+
+
+
+ 
